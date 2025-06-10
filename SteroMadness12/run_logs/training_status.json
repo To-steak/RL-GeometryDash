@@ -1,0 +1,65 @@
+{
+    "StereoMadness": {
+        "checkpoints": [
+            {
+                "steps": 999988,
+                "file_path": "results\\SteroMadness12\\StereoMadness\\StereoMadness-999988.onnx",
+                "reward": 73.00010094275841,
+                "creation_time": 1732113873.2487218,
+                "auxillary_file_paths": [
+                    "results\\SteroMadness12\\StereoMadness\\StereoMadness-999988.pt"
+                ]
+            },
+            {
+                "steps": 1499892,
+                "file_path": "results\\SteroMadness12\\StereoMadness\\StereoMadness-1499892.onnx",
+                "reward": 84.49407894640083,
+                "creation_time": 1732117075.3214977,
+                "auxillary_file_paths": [
+                    "results\\SteroMadness12\\StereoMadness\\StereoMadness-1499892.pt"
+                ]
+            },
+            {
+                "steps": 1999944,
+                "file_path": "results\\SteroMadness12\\StereoMadness\\StereoMadness-1999944.onnx",
+                "reward": 94.00010881925884,
+                "creation_time": 1732120337.0460186,
+                "auxillary_file_paths": [
+                    "results\\SteroMadness12\\StereoMadness\\StereoMadness-1999944.pt"
+                ]
+            },
+            {
+                "steps": 2499942,
+                "file_path": "results\\SteroMadness12\\StereoMadness\\StereoMadness-2499942.onnx",
+                "reward": 93.2697716187895,
+                "creation_time": 1732123772.1641903,
+                "auxillary_file_paths": [
+                    "results\\SteroMadness12\\StereoMadness\\StereoMadness-2499942.pt"
+                ]
+            },
+            {
+                "steps": 2758953,
+                "file_path": "results\\SteroMadness12\\StereoMadness\\StereoMadness-2758953.onnx",
+                "reward": 94.95010910034179,
+                "creation_time": 1732126007.73873,
+                "auxillary_file_paths": [
+                    "results\\SteroMadness12\\StereoMadness\\StereoMadness-2758953.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2758953,
+            "file_path": "results\\SteroMadness12\\StereoMadness.onnx",
+            "reward": 94.95010910034179,
+            "creation_time": 1732126007.73873,
+            "auxillary_file_paths": [
+                "results\\SteroMadness12\\StereoMadness\\StereoMadness-2758953.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
